@@ -8,7 +8,6 @@ import java.util.Collections;
 import java.util.List;
 
 @Repository
-@Primary
 public class ProductRepositoryFoo implements  IProductRepository{
 
 
